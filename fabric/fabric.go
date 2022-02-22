@@ -12,8 +12,8 @@ import (
 	"github.com/hyperledger/fabric-sdk-go/pkg/client/channel"
 	"github.com/hyperledger/fabric-sdk-go/pkg/client/ledger"
 	"github.com/hyperledger/fabric-sdk-go/third_party/github.com/hyperledger/fabric/common/cauthdsl"
-	"github.com/meshplus/hyperbench-common/base"
-	fcom "github.com/meshplus/hyperbench-common/common"
+	"github.com/hyperbench/hyperbench-common/base"
+	fcom "github.com/hyperbench/hyperbench-common/common"
 	"github.com/spf13/cast"
 )
 

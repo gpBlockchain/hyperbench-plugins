@@ -6,11 +6,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/meshplus/gosdk/abi"
-	"github.com/meshplus/gosdk/common"
-	"github.com/meshplus/gosdk/hvm"
-	"github.com/meshplus/gosdk/rpc"
-	"github.com/meshplus/gosdk/utils/java"
+	"github.com/hyperbench/gosdk/abi"
+	"github.com/hyperbench/gosdk/common"
+	"github.com/hyperbench/gosdk/hvm"
+	"github.com/hyperbench/gosdk/rpc"
+	"github.com/hyperbench/gosdk/utils/java"
 	"github.com/pkg/errors"
 )
 

@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/meshplus/gosdk/account"
-	"github.com/meshplus/gosdk/common"
+	"github.com/hyperbench/gosdk/account"
+	"github.com/hyperbench/gosdk/common"
 	"github.com/op/go-logging"
 	"github.com/pkg/errors"
 )

@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/meshplus/gosdk/common"
+	"github.com/hyperbench/gosdk/common"
 )
 
 var (

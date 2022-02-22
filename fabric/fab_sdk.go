@@ -13,7 +13,7 @@ import (
 	"github.com/hyperledger/fabric-sdk-go/pkg/core/cryptosuite"
 	"github.com/hyperledger/fabric-sdk-go/pkg/fabsdk"
 	"github.com/hyperledger/fabric-sdk-go/pkg/msp"
-	"github.com/meshplus/hyperbench-common/base"
+	"github.com/hyperbench/hyperbench-common/base"
 )
 
 // SDK struct
